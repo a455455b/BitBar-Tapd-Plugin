@@ -22,7 +22,7 @@ A Bitbar Plugin , Show current status of Undo jobs on a Tapd instance. Clicks na
 
 ### Must config 
 ```python
-user_email = u"XXXXXXXXXXXXX@banggood.com"
+user_email = u"XXXXXXXXXXXXX@xxxxxxx.com"
 
 user_password = u"XXXXXXXXXXXXXXX"
 
